@@ -86,10 +86,7 @@ export default function Home() {
         </Card>
       </main>
       <Footers>
-        <span>Meu Blog. Feito com paixão por</span>
-        <span>veículos</span>
-        <span>e</span>
-        <span>vida</span>.
+        <span>Meu Blog. Feito com paixão por veiculos e vida</span>
       </Footers>
     </>
   );
